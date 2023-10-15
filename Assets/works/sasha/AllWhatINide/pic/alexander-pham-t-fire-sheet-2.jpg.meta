@@ -39,11 +39,11 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,91 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: alexander-pham-t-fire-sheet-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd7fcf4c08b284d90d9785e20209b4
+      internalID: 1487123024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexander-pham-t-fire-sheet-2_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 257
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beff058033948f4aa0a52530e1ca50a
+      internalID: -2006378529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexander-pham-t-fire-sheet-2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39ad1f4c7852554db9280ee98f1dd6f
+      internalID: -1222386272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alexander-pham-t-fire-sheet-2_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976239145438fe45b5500d0e30ac416
+      internalID: -496597843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +203,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      alexander-pham-t-fire-sheet-2_0: 1487123024
+      alexander-pham-t-fire-sheet-2_1: -2006378529
+      alexander-pham-t-fire-sheet-2_2: -1222386272
+      alexander-pham-t-fire-sheet-2_3: -496597843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
